@@ -1,0 +1,8 @@
+ 
+var Animal = ["Lion", "Cat", "Tiger", "Tiger", "Tiger"];
+var AnimalNum = 0;
+    while(AnimalNum < Animal.length) {
+        fill(255, 0, 0);
+        text(Animal[AnimalNum], 10, 30+AnimalNum*30);
+    AnimalNum++;
+    }

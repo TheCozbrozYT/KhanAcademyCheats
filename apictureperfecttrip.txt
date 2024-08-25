@@ -1,0 +1,21 @@
+
+
+
+<html>
+    <head>
+        <title>Spin-off of "Challenge: A picture-perfect trip"</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+        
+        <p>I would see scenes like...</p> <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/star.png" alt="Bright/shining yellow star" width="203" height="103">
+        
+        <p>And animals like...</p> <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/creatures/Hopper-Cool.png" alt="beaver wearing big sunglasses while sitting" width="203" height="103">
+        
+        <p>And eat food like...</p> <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/creatures/BabyWinston.png" alt="yellow baby with red passifier" width="203" height="103">
+        
+    </body>
+</html>
+
+

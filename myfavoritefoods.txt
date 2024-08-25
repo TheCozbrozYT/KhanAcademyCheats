@@ -1,0 +1,9 @@
+ 
+fill(255, 0, 0);
+textSize(38);
+text("My Favorite Foods", 46,53);
+text("Cheese",7,116);
+text("Broccol",7,78);
+text("Whats yours", 46,157);
+
+

@@ -1,0 +1,15 @@
+ 
+draw = function() {
+    fill(255, 0, 0);
+
+    if (mouseIsPressed && mouseY <250 && mouseY > 150 && mouseX < 300 && mouseX > 50) {
+        fill(59, 128, 75);
+    }
+
+    rect(50,150,250,100);
+
+    fill(255, 255, 255);
+    textSize(30);
+    text("PRESS ME!",93,208);
+};
+

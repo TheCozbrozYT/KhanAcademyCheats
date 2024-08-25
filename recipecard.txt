@@ -1,0 +1,18 @@
+ 
+var recipeTitle = "Cake";
+var recipeServings = 2;
+var recipeIngredients = ["Flour", "W"];
+
+var makeBread= {
+    title: "Bread",
+    servings: 2,
+    ingredients: ["Flour", "Water"]
+};
+
+fill(26, 26, 26);
+textSize(20);
+text(makeBread.title, 10, 23);
+text("Servings: " + makeBread.servings, 10, 55);
+text("Ingredients: " + makeBread.ingredients, 10, 85);
+
+

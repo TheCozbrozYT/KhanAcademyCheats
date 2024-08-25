@@ -1,0 +1,10 @@
+ 
+fill(255, 0, 255);
+
+draw = function() {
+    background(255, 255, 255);
+    ellipse(mouseX, mouseY, 123, 234); 
+    var label = mouseX + " , " + mouseY;
+    text(label, mouseX, mouseY);
+};
+

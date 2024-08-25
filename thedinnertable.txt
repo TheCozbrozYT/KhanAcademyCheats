@@ -1,0 +1,58 @@
+
+
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: The dinner table</title>
+    </head>
+    <body>
+    
+        <h1>Our dinner menu</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Meal</th>
+                    
+                    <th>Ingredients</th>
+                    
+                    <th>Price</th>
+                
+                </tr>
+            </thead>
+            <tbody>
+             <tr>
+            <td> Potato Man </td>
+            <td>Choped up man with mashed potata</td> 
+            <td> 100000000000000000000000000</td>
+            
+                 
+                
+             </tr>
+             
+             
+             <tr>
+            <td> BBQ Chicken wings </td>
+            <td>Special BBQ sauce with SPECIAL CHICKEN AND BREAD CRUMBS</td> 
+            <td> 100000000000000000000000000</td>
+            
+                 
+                
+             </tr>
+             
+              <tr>
+            <td> Cripsy chicken sandwich </td>
+            <td>Crispy SPECIAL chicken tenders, mayo,pickles,lettuse AND SPECIAL SAUCE WITH TOMATOS</td> 
+            <td> 100000000000000000000000000</td>
+            
+                 
+                
+             </tr>
+             
+            </tbody>
+        </table>
+
+    </body>
+</html>
+
